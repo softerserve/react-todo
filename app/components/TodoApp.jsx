@@ -17,6 +17,15 @@ var TodoApp = React.createClass({
         }, {
           id: 4,
           text: 'Play video games'
+        }, {
+          id: 5,
+          text: 'Shoot a deer'
+        }, {
+          id: 6,
+          text: 'Check out Zillow'
+        }, {
+          id: 7,
+          text: 'Find a painter'
         }
       ]
     };
